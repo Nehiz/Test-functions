@@ -1,0 +1,29 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+Answer: This semester, I saw the power of function during the outdoor scene project. 
+I was amazed to see that I could piece together an outdoor scene, put colours and add objects like the 
+cloud, sun, birds simply by writing a workable function. 
+
+
+
+2. In your judgment, what is the value of test functions?
+
+Answer: Test functions are invaluable to the work of a programmer as they make 
+it easy to quickly assess if the functions are executable or not. Test function also
+become handy as good debugging tool because the reports it gives when the test fail directly 
+point to the particular source code of the error. Thus, pointing the programmer to the part of his code that needs to be debugged.  
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+Answer: When I have a program that need troubleshooting or fixing, I usually follow the top-down troubleshooting, i.e,
+first commenting the later part of the code out, then begin to test each session of the code to identify where the error might have started from. 
+In my short programming career, I have come to realize that this method that I often use for troubleshootingi really cumbersome and time consuming. 
+i think that I can improve this methon by learning and using test functions more frequently. 
